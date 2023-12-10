@@ -1,0 +1,52 @@
+body {background-color: black;}
+        .p{ padding: 20px;}
+
+.profile{ margin: 30px 30px 0px 30px; float: none; filter: grayscale(); border-radius: 15px; }
+.profile:hover {filter: none; transition: 0.4s;}
+
+h1{ margin: 20px 30px 0px 30px; font-size: 50px; color: rgb(69, 114, 114) ;font-family: Verdana, Geneva, Tahoma, sans-serif;   font-weight: 600;  }
+
+h2{ margin: 10px 30px 0px 30px; color: darkslategrey;}
+
+
+
+
+.work {height:420px;
+padding:30px 15px 30px 30px;
+}
+
+.work:hover{padding: 0px 0px 0px 0px;
+ height: 450px;
+
+ 
+
+transition-duration: 0.4s;
+margin: 0% auto;
+opacity: 80%;
+}
+
+h3{ color: white; background-color: rgb(53, 53, 53);margin: 30px; padding: 15px; width: 1220px; border-radius: 15px; }
+
+a{padding: 10px 157px 20px 15px; margin: 20px;text-decoration: none;  color: rgb(255, 255, 255); font-size: 20px;}
+
+hr {width: 1200px; color: white;}
+.lowerhr { width: 1150px; float: none;
+}
+
+.icon {max-width: 15%; width: 110px; height:70px; margin: 26px 0px 20px 20px;display: inline-block;}
+
+
+.button {background-color: darkslategrey;
+border-radius: 20px;
+color: rgb(255, 255, 255);
+padding: 10px 20px 10px 20px;
+text-align: center;
+display: inline block;
+
+}
+
+.button:hover { background-color: rgb(84, 127, 127);}
+
+h4{color: rgb(255, 255, 255); font-weight: 600; margin-bottom: 30px;}
+
+  
